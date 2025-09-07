@@ -1,3 +1,5 @@
+# Name: Sudhindra.R
+# Reg No: 212224240164
 # Ex-02 InformationGathering
 Information Gathering Techiques
 
@@ -86,18 +88,27 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 <img width="955" height="1045" alt="ping exp-2" src="https://github.com/user-attachments/assets/6972f8d6-b85d-44a1-998b-5794e705051c" />
 
 ### whois :
+<img width="1920" height="1057" alt="whois exp-2" src="https://github.com/user-attachments/assets/19a17145-ad3e-4642-9ec7-7cee926bd640" />
 
 ### netcat :
+<img width="1920" height="1057" alt="netcat" src="https://github.com/user-attachments/assets/30b60179-7a69-4b63-8bab-e45099c9f1a4" />
 
 ### nmap :
+<img width="955" height="1045" alt="nmap" src="https://github.com/user-attachments/assets/42d82586-b37b-4ce9-9df3-4d514da46050" />
+
 
 ### whatweb :
+<img width="955" height="1045" alt="whatwebb" src="https://github.com/user-attachments/assets/b3989b75-b047-44ee-8efe-b94cba59b8d5" />
 
 ### httprint :
+<img width="630" height="208" alt="image" src="https://github.com/user-attachments/assets/d2ee2446-08c5-41f1-957f-3b1b181277b1" />
+
 
 ### TCP traceroute :
+<img width="955" height="1045" alt="tcp traceroute" src="https://github.com/user-attachments/assets/47571f9e-4b48-4458-b165-6ccd177e2d30" />
 
 ### UDP traceroute :
+<img width="955" height="1045" alt="udp" src="https://github.com/user-attachments/assets/57bd46c6-e5c3-4eab-ba84-2475e61d9e81" />
 
 
 ## RESULT:
