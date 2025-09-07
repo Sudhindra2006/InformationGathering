@@ -83,6 +83,7 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 <img width="1444" height="908" alt="image" src="https://github.com/user-attachments/assets/b03cfe0d-0f1b-430b-b755-887755b64499" />
 
 ### ping command :
+<img width="955" height="1045" alt="ping exp-2" src="https://github.com/user-attachments/assets/6972f8d6-b85d-44a1-998b-5794e705051c" />
 
 ### whois :
 
